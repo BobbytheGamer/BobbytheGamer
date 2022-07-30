@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BobbytheGamer
+- 👀 I’m interested in Game Making
+- 🌱 I’m currently learning on my game called cube panic
